@@ -10,5 +10,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ics20044&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ics20044&repo=BsnMedia)](https://github.com/anuraghazra/github-readme-stats)
+
 
